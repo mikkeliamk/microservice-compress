@@ -17,12 +17,6 @@ Web		https://osa.mamk.fi
 
 Mikkeli University of Applied Sciences
 
-Contributors
---
-**Developers**  
-Heikki Kurhinen  
-Liisa Uosukainen  
-
 License
 ---
 The software is licensed under AGPL-3.0.   
